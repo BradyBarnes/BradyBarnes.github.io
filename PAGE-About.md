@@ -1,3 +1,4 @@
 layout: page
 title: "PAGE-About"
-permalink: /About
+description:"About me"
+permalink: BradyBarnes.github.io/About
